@@ -3,4 +3,4 @@ version=v0.2
 client=icecream.exe
 content=updatecontent.velar
 channel=stable
-min-loader=v0.1
+min-loader=v0.2
