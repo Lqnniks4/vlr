@@ -1,6 +1,6 @@
 signature=VELAR_UPDATE_MANIFEST
-version=v0.3
+version=v0.4
 client=icecream.exe
 content=updatecontent.velar
 channel=stable
-min-loader=v0.3
+min-loader=v0.4
