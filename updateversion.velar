@@ -1,6 +1,3 @@
-signature=VELAR_UPDATE_MANIFEST
 version=v0.4
-client=icecream.exe
-content=updatecontent.velar
-channel=stable
-min-loader=v0.4
+changelog= Testing stuffs, we're about to release
+sig=f4836e3d170400daa01e7c552d68a6a9453b86f76cb99b667487008ad9c023bd
